@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "faeff43fbc9c9652",
+    "type": "split",
+    "children": [
+      {
+        "id": "3daf9b1f74e864fd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "100. Prios Projects/SMAB/001. Planner.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fc609f41da10172d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d234ba393b675e65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d8bc089625b4ab4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "38b2e1396ad24115",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#misc/deleteMe",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ed4da600ceb5301a",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "fe424d40b670a7cb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7ed3eb91c7cf64db",
+    "type": "split",
+    "children": [
+      {
+        "id": "87f137366c2d5b7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65472e8dd835893f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "100. Prios Projects/SMAB/001. Planner.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fe11b2ca944a48bc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f8caeedddca58106",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "100. Prios Projects/SMAB/001. Planner.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "caee2a74b7586904",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "3daf9b1f74e864fd",
+  "lastOpenFiles": [
+    "100. Prios Projects/SMAB/001. Planner.md",
+    "Test.md",
+    "Obsidian Planner.md",
+    "Rebuild github account - bj.md",
+    "mmm.md",
+    "000. Master Folder/Templates/Test two.md",
+    "000. Master Folder/Templates/Test Template.md",
+    "000. Master Folder/test two.md",
+    "000. Master Folder/test.md"
+  ]
+}
