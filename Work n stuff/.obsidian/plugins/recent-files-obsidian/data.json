@@ -1,20 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Anime Recomendations",
+      "path": "Anime Recomendations.md"
+    },
+    {
+      "basename": "Book Recomendations",
+      "path": "Book Recomendations.md"
+    },
+    {
+      "basename": "Lightbringer series",
+      "path": "200. Entertainment/Books/Lightbringer series.md"
+    },
+    {
+      "basename": "Brent Weeks",
+      "path": "300. People/Authors/Brent Weeks.md"
+    },
+    {
       "basename": "001. Planner",
       "path": "100. Prios Projects/SMAB/001. Planner.md"
     },
     {
-      "basename": "Test",
-      "path": "Test.md"
+      "basename": "files without tags",
+      "path": "files without tags.md"
     },
     {
-      "basename": "Obsidian Planner",
-      "path": "Obsidian Planner.md"
+      "basename": "Obsidian Tips n Tricks",
+      "path": "000. Master Folder/Misc/Obsidian Tips n Tricks.md"
     },
     {
       "basename": "Rebuild github account - bj",
-      "path": "Rebuild github account - bj.md"
+      "path": "800. Random Ideas/Rebuild github account - bj.md"
+    },
+    {
+      "basename": "Pushing to Github",
+      "path": "400. Guides/Obsidian/Pushing to Github.md"
+    },
+    {
+      "basename": "Obsidian Planner",
+      "path": "999. Misc/Obsidian Planner.md"
     }
   ],
   "omittedPaths": [],

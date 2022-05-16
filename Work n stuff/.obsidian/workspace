@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3daf9b1f74e864fd",
+        "id": "fd936085a789195d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "100. Prios Projects/SMAB/001. Planner.md",
+            "file": "Anime Recomendations.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#misc/deleteMe",
+                "query": "tag:#Status",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,14 +85,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100. Prios Projects/SMAB/001. Planner.md",
-                "collapseAll": true,
-                "extraContext": true,
+                "file": "Anime Recomendations.md",
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100. Prios Projects/SMAB/001. Planner.md",
+                "file": "Anime Recomendations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,24 +126,32 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "a527741c9f16b3f0",
+            "type": "leaf",
+            "state": {
+              "type": "dangling-links",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "3daf9b1f74e864fd",
+  "active": "fd936085a789195d",
   "lastOpenFiles": [
+    "Anime Recomendations.md",
+    "Book Recomendations.md",
+    "200. Entertainment/Books/Lightbringer series.md",
+    "300. People/Authors/Brent Weeks.md",
     "100. Prios Projects/SMAB/001. Planner.md",
-    "Test.md",
-    "Obsidian Planner.md",
-    "Rebuild github account - bj.md",
-    "mmm.md",
-    "000. Master Folder/Templates/Test two.md",
-    "000. Master Folder/Templates/Test Template.md",
-    "000. Master Folder/test two.md",
-    "000. Master Folder/test.md"
+    "unresolved links output.md",
+    "unlinked files output.md",
+    "Untitled.md",
+    "files without tags.md",
+    "000. Master Folder/Misc/Obsidian Tips n Tricks.md"
   ]
 }

@@ -19,7 +19,8 @@
   "note-refactor-obsidian",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-kanban",
-  "obsidian-outliner",
   "periodic-notes",
-  "readwise-official"
+  "readwise-official",
+  "highlightr-plugin",
+  "obsidian-dangling-links"
 ]
