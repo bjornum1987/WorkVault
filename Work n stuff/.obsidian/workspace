@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "fd936085a789195d",
+        "id": "425a40251fb34b38",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Anime Recomendations.md",
+            "file": "Udemy - Git/000. Main Course Overview.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anime Recomendations.md",
+                "file": "Udemy - Git/000. Main Course Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anime Recomendations.md",
+                "file": "Udemy - Git/000. Main Course Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,17 +141,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "fd936085a789195d",
+  "active": "425a40251fb34b38",
   "lastOpenFiles": [
+    "Udemy - Git/000. Main Course Overview.md",
+    "files without tags.md",
+    "Daily Git Routines.md",
     "Anime Recomendations.md",
+    "Sort once merged with main vault/JSDocs and Vue.md",
+    "Sort once merged with main vault/Better and Faster Calorie Tracking (Top 10 tips 2021).md",
+    "999. Misc/Lifesum vs MyFitnessPal.md",
     "Book Recomendations.md",
     "200. Entertainment/Books/Lightbringer series.md",
-    "300. People/Authors/Brent Weeks.md",
-    "100. Prios Projects/SMAB/001. Planner.md",
-    "unresolved links output.md",
-    "unlinked files output.md",
-    "Untitled.md",
-    "files without tags.md",
-    "000. Master Folder/Misc/Obsidian Tips n Tricks.md"
+    "300. People/Authors/Brent Weeks.md"
   ]
 }
