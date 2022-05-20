@@ -3,6 +3,7 @@
 
 
 # Daily Git Routines
+git init
 
 - This will asume that the the project already are on git.
 	- If not check the guide [[Pushing to Github]]

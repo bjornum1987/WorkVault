@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "425a40251fb34b38",
+        "id": "a9701014c2f141cb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Udemy - Git/000. Main Course Overview.md",
+            "file": "Anime Recomendations.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Status",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Udemy - Git/000. Main Course Overview.md",
+                "file": "Anime Recomendations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Udemy - Git/000. Main Course Overview.md",
+                "file": "Anime Recomendations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,23 +135,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "425a40251fb34b38",
+  "active": "a9701014c2f141cb",
   "lastOpenFiles": [
-    "Udemy - Git/000. Main Course Overview.md",
-    "files without tags.md",
-    "Daily Git Routines.md",
     "Anime Recomendations.md",
-    "Sort once merged with main vault/JSDocs and Vue.md",
-    "Sort once merged with main vault/Better and Faster Calorie Tracking (Top 10 tips 2021).md",
-    "999. Misc/Lifesum vs MyFitnessPal.md",
+    "Sort once merged with main vault/Idea Lost Ark.md",
+    "Nanatsu No Taizai.md",
     "Book Recomendations.md",
-    "200. Entertainment/Books/Lightbringer series.md",
-    "300. People/Authors/Brent Weeks.md"
+    "Sort once merged with main vault/The Millionaire Fastlane.md",
+    "Sort once merged with main vault/Never Split the Difference - Negotiate as if your life depended on it.md",
+    "Sort once merged with main vault/A Million Miles in a Thousand Years.md",
+    "Sort once merged with main vault/The Productivity Project.md",
+    "Sort once merged with main vault/So Good they cant Ignore you.md",
+    "Sort once merged with main vault/Atomic Habits.md"
   ]
 }
